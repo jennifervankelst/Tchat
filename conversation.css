@@ -1,0 +1,13 @@
+.lbl_message {
+    display: block;
+  }
+
+.heure {
+    margin-left: 450px;
+    font-size: 10px;
+}
+
+.pseudo {
+    font-size: 25px;
+    color: #ffffff;
+}
